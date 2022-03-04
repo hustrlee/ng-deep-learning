@@ -2,3 +2,7 @@ numpy
 jupyter
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
+h5py
+scipy
+matplotlib
+pillow
