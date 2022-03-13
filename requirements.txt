@@ -7,3 +7,4 @@ scipy
 matplotlib
 pillow
 sklearn
+tensorflow==1.15
